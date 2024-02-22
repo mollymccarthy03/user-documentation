@@ -18,3 +18,12 @@ List of docs that have header hierarchy errors:
 /software_examples/other_languages_tools/conda-tarball.md
 /software_examples/other_languages_tools/julia-on-osg.md
 /software_examples/python/manage-python-packages.md
+
+Found on 2/22/24 and fixed:
+/PATh/htc_workloads/containers/containers.md
+/PATh/htc_workloads/specific_resources/gpus.md
+/PATh/htc_workloads/submitting_workloads/checkpointing.md
+/PATh/htc_workloads/submitting_workloads/submit-multiple-jobs.md
+/PATh/htc_workloads/using_data/data-transfer.md
+/PATh/htc_workloads/using_software/conda-environments.md
+/PATh/overview/account_setup/getting-started.md
